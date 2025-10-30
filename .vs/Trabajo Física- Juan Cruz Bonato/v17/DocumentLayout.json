@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milug\\Trabajo F\u00EDsica- Juan Cruz Bonato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E47DE085-C211-13A8-A469-59323924CE31}|Assembly-CSharp.csproj|c:\\users\\milug\\trabajo f\u00EDsica- juan cruz bonato\\assets\\movimiento_pelota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47DE085-C211-13A8-A469-59323924CE31}|Assembly-CSharp.csproj|solutionrelative:assets\\movimiento_pelota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "movimiento_pelota.cs",
+              "DocumentMoniker": "C:\\Users\\milug\\Trabajo F\u00EDsica- Juan Cruz Bonato\\Assets\\movimiento_pelota.cs",
+              "RelativeDocumentMoniker": "Assets\\movimiento_pelota.cs",
+              "ToolTip": "C:\\Users\\milug\\Trabajo F\u00EDsica- Juan Cruz Bonato\\Assets\\movimiento_pelota.cs",
+              "RelativeToolTip": "Assets\\movimiento_pelota.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T19:15:08.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
