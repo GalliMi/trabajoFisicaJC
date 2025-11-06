@@ -27,8 +27,7 @@ public class movimiento_pelota : MonoBehaviour
 
         if (inicio == true)
         {
-            // torque agrega Rotacion 
-            rb.AddTorque(transform.right * fuerza, ForceMode.Force);
+            rb.AddForce(transform.right * fuerza, ForceMode.Force);
         }
     }
 }
